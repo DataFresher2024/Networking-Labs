@@ -6,7 +6,7 @@ This project is a Cisco Packet Tracer simulation that demonstrates:
 
 -Basic Switch/Router Configuration
 -Subnetting
--VLAN configuration
+-IP Addressing
 
 ## How to Open
 1. Download the 'pkt.' file
