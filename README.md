@@ -17,4 +17,4 @@ This project is a Cisco Packet Tracer simulation that demonstrates:
 - Subnet networks between two departments
 
 ## Author
-Irvin Odallo - CCST Netowrking Certified
+Irvin Odallo - CCST Networking Certified
